@@ -1,4 +1,5 @@
 function add(a,b){
+    const unUsedVariable = 45;
     return a+b;
 }
 
